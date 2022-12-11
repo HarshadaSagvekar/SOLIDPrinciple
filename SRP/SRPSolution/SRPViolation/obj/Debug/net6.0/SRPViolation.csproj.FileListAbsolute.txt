@@ -1,0 +1,15 @@
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\bin\Debug\net6.0\SRPViolation.exe
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\bin\Debug\net6.0\SRPViolation.deps.json
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\bin\Debug\net6.0\SRPViolation.runtimeconfig.json
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\bin\Debug\net6.0\SRPViolation.dll
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\bin\Debug\net6.0\SRPViolation.pdb
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\SRPViolation.csproj.AssemblyReference.cache
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\SRPViolation.GeneratedMSBuildEditorConfig.editorconfig
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\SRPViolation.AssemblyInfoInputs.cache
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\SRPViolation.AssemblyInfo.cs
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\SRPViolation.csproj.CoreCompileInputs.cache
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\SRPViolation.dll
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\refint\SRPViolation.dll
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\SRPViolation.pdb
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\SRPViolation.genruntimeconfig.cache
+F:\HarshadaProject\SOLIDPrinciple\SRP\SRPSolution\SRPViolation\obj\Debug\net6.0\ref\SRPViolation.dll
