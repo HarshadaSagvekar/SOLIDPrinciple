@@ -8,9 +8,9 @@ namespace SRPViolation.BusinessModel
 {
     internal class Invoice
     {
-        private double _amount;
-        private double _discountPercent;
-        private string _discription;
+        private readonly double _amount;
+        private readonly double _discountPercent;
+        private readonly string _discription;
 
         public Invoice(string discription,double amount,double discountPercent)
         { 
